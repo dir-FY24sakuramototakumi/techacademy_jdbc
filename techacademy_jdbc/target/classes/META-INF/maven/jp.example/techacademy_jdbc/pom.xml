@@ -10,7 +10,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
         <configuration>
-          <release>19</release>
+          <release>17</release>
         </configuration>
       </plugin>
     </plugins>
@@ -19,7 +19,7 @@
   	<dependency>
   		<groupId>mysql</groupId>
   		<artifactId>mysql-connector-java</artifactId>
-  		<version>8.0.23</version>
+  		<version>8.0.33</version>
   	</dependency>
   </dependencies>
 </project>
